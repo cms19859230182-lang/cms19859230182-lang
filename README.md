@@ -8,7 +8,9 @@
 | ESP32-C3 | [ESP32-C3](https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32c3/esp32-c3-devkitm-1/user_guide.html) | WIFI, BLE | RISC-V开发板 |
 | ESP32-S3 | [ESP32-S3](https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32s3/esp32-s3-devkitm-1/user_guide.html) | WIFI, BLE | Xtensa开发板 |
 | ESP32-C6 | [ESP32-C6](https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32c6/esp32-c6-devkitc-1/user_guide.html) | WIFI, BLE | RISC-V开发板 |
+| D1s（RDC2022 纪念版） | [D1s RDC2022](https://www.aw-ol.com/boards/15) | C906 单核 | RISC-V开发板 |
+| Avaota F2（V861） | [Avaota F2](https://github.com/AvaotaSBC/AvaotaF2) | 双核 C907 | RISC-V开发板 |
 
-感谢 [@lazyparser](https://github.com/lazyparser)（wuwei老师）与 苦芽科技 提供以上开发板。
+感谢 [@lazyparser](https://github.com/lazyparser)（wuwei老师）与苦芽科技、[@BernardXiong](https://github.com/BernardXiong)（熊谱翔老师）赠送开发板。
 
 有多的开发板可以寄来。我用 RT-Thread 跑到串口，并写下实测。 (★ω★)
